@@ -6,9 +6,6 @@
 
 ## _Skilled in Python programming for data analysis and process optimization._
 
-<p align="center">
-  <img src="https://i.ibb.co/xqKVQHJ9/Imagen-de-Whats-App-2025-06-20-a-las-15-44-15-3c1e8591.jpg" width="200"/>
-</p>
 
 ### Studied:
 * Programming in Python
